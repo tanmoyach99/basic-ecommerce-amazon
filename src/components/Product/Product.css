@@ -1,0 +1,16 @@
+.product{
+    border-radius: 5px;
+}
+.amazon-button {
+    background: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: black;
+    width: 100px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
